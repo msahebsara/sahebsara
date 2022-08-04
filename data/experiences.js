@@ -4,7 +4,7 @@ const experiences = [
     date: "Jun 2022 - Present",
     title: "Software Developer",
     company: "Intuit",
-    description: "QuickBooks Online get-to-know-me/first time user flows",
+    description: "QuickBooks Online Ecosystem Foundations",
   },
   {
     id: 2,
