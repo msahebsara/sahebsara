@@ -26,6 +26,15 @@ const projects = [
     type: "Personal Project",
     link: "https://github.com/msahebsara/osareservation",
   },
+  {
+    id: 4,
+    image: "waybill.png",
+    title: "Digital Waybill",
+    description:
+      "Digital waybill system built for client. Supports organization-based and role-based accounts, search, logs, exports, custom reconciliation rules and email notifications. Currently hosts 2500+ waybills accross 40+ users and 3+ organizations.",
+    type: "Client Project",
+    link: "/images/waybill.png",
+  },
 ];
 
 export default projects;
