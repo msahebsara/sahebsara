@@ -31,7 +31,7 @@ const projects = [
     image: "waybill.png",
     title: "Digital Waybill",
     description:
-      "Digital waybill system built for client. Supports organization-based and role-based accounts, search, logs, exports, custom reconciliation rules and email notifications. Currently hosts 2500+ waybills accross 40+ users and 3+ organizations.",
+      "Digital waybill system built for client. Supports organization-based and role-based accounts, search, logs, exports, custom reconciliation rules and email notifications. Currently hosts 2500+ waybills across 40+ users and 3+ organizations.",
     type: "Client Project",
     link: "/images/waybill.png",
   },
